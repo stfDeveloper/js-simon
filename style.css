@@ -11,10 +11,12 @@
     font-size: 60px;
 }
 #game{
-    width: 100vw;
-    height: 100vh;
+
     font-size: 130px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.hide{
+    display: none;
 }
